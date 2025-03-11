@@ -8,6 +8,9 @@ I teach courses on economic sociology, energy transitions, innovation, organizat
 
 <br/>
 
+
+[Spring 2025. Intermediäre Institutionen: Die Organisation gesellschaftlicher Interessen und sozialer Anliegen. Undergraduate seminar. Catholic University of Applied Sciences of North Rhine-Westphalia.](https://katho-nrw.de/standorte/standort-aachen)
+
 [Winter 2024/2025. Soziologische Theorie. Lecture for undergraduate students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
 
 [Winter 2024/2025. The Ordinal Society. Seminar for undergraduate students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)

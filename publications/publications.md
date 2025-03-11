@@ -12,6 +12,8 @@ nav_order: 2
 
 ## Articles
 
+[2025. Picking Losers: Climate Change and Managed Decline in the European Union. *Regulation & Governance*](https://doi.org/10.1111/rego.70004)
+
 [2023. No Strings Attached: Corporate Welfare, State Intervention, and the Issue of Conditionality. *Competition & Change* 27, 2, 253–276 (with F. Bulfone and M. Kalaitzake).](https://doi.org/10.1177/10245294221101145)
 
 [2023. The Silicon Valley Imaginary: U.S. Tax Reform in the 1980s. *Socio-economic Review* 21, 2, 935–957 (with I. Rademacher).](https://doi.org/10.1093/ser/mwab051)
