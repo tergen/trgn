@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Paper on the evolution of European climate policies"
+title:  "New Paper on the evolution of European climate policies in Regulation and Governance"
 date:   2025-03-01 10:00:00 -0400
 tags: [decline, industrial policy, regulation, Europe, climate change]
 ---

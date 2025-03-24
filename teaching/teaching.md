@@ -11,7 +11,7 @@ I teach courses on economic sociology, energy transitions, innovation, organizat
 
 [Spring 2025. Intermediäre Institutionen: Die Organisation gesellschaftlicher Interessen und sozialer Anliegen. Undergraduate seminar. Catholic University of Applied Sciences of North Rhine-Westphalia.](https://katho-nrw.de/standorte/standort-aachen)
 
-[Winter 2024/2025. Soziologische Theorie. Lecture for undergraduate students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
+[Winter 2024/2025. Soziologische Theorie. Lecture for undergraduate students. Carl von Ossietzky University Oldenburg.](teaching_files/syl_24_25_vl_soz_theorie.pdf)
 
 [Winter 2024/2025. The Ordinal Society. Seminar for undergraduate students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
 
@@ -23,7 +23,7 @@ I teach courses on economic sociology, energy transitions, innovation, organizat
 
 [Winter 2024/2025. Sozialstaat & Wirtschaft. Undergraduate seminar. Catholic University of Applied Sciences of North Rhine-Westphalia.](https://katho-nrw.de/standorte/standort-aachen)
 
-[Spring 2024. Organisationssoziologie: Einführung in Theorien und Konzepte. Undergraduate Lecture. University of Wuppertal (with L. Suckert).](https://www.org-soz.uni-wuppertal.de/de/news-1/)
+[Spring 2024. Organisationssoziologie: Einführung in Theorien und Konzepte. Undergraduate Lecture. University of Wuppertal (with L. Suckert).](teaching_files/syl_2024_vl_orgasoz_plan.pdf)
 
 [Spring 2024. Qualitative Erhebungsmethoden. Undergraduate Seminar. University of Wuppertal (with L. Suckert).](https://www.org-soz.uni-wuppertal.de/de/news-1/)
 
