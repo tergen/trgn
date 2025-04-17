@@ -5,7 +5,7 @@ date:   2025-03-01 10:00:00 -0400
 tags: [decline, industrial policy, regulation, Europe, climate change]
 ---
 
-Together with [Luuk Schmitz](https://www.mpifg.de/person/129459) I have just published a [paper on the the evolution of European climate policies](https://doi.org/10.1111/rego.70004).
+Together with [Luuk Schmitz](https://www.mpifg.de/person/129459) I have just published a [paper on the evolution of European climate policies](https://doi.org/10.1111/rego.70004).
 
 <!--more-->
 
