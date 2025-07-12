@@ -12,6 +12,8 @@ nav_order: 2
 
 ## Articles
 
+[2025. Regulating via Conditionality: The Instruments of the New Industrial Policy. *Regulation & Governance* Online First (with F. Bulfone and E. Maggor)](https://doi.org/10.1111/rego.70050)
+
 [2025. Picking Losers: Climate Change and Managed Decline in the European Union. *Regulation & Governance* 19, 2, 383–398 (with L. Schmitz)](https://doi.org/10.1111/rego.70004)
 
 [2023. No Strings Attached: Corporate Welfare, State Intervention, and the Issue of Conditionality. *Competition & Change* 27, 2, 253–276 (with F. Bulfone and M. Kalaitzake).](https://doi.org/10.1177/10245294221101145)
