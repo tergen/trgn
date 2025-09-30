@@ -1,0 +1,112 @@
+baseURL: "https://tergen.org" 
+title: Timur Ergen
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Book
+          url: book/
+          weight: 5 
+        - name: Papers
+          url: papers/
+          weight: 2
+        - name: Courses
+          url: courses/
+          weight: 3
+#        - name: Data
+#          url: data/
+#          weight: 4 
+        - name: News
+          url: news/
+          weight: 6
+
+params:
+    description: "This website hosts Timur Ergen's research and teaching materials, curriculum vitae, and contact information."
+    author: Timur Ergen
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["books","courses","papers","blog"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Timur Ergen
+          subtitle: "I am director of the [Institute Labor and Economy (iaw)](https://www.iaw.uni-bremen.de) at the [University of Bremen](https://www.uni-bremen.de), Germany. My research focuses on comparative social analysis, technological change, and institutions in capitalist societies. I received my PhD from the [International Max Planck Research School on the Social and Political Constitution of the Economy (IMPRS-SPCE)](https://imprs.mpifg.de) and was a senior researcher at the [Max Planck Institute for the Study of Societies (MPIfG)](https://www.mpifg.de) from 2015 to 2025. I am a member of the Executive Council of the [Society for the Advancement of Socio-economics (SASE)](https://sase.org) and co-organize SASE's Network J: Digital Economy. <br /> <br /> My [Curriculum Vitae](cv.pdf) has more detail, if you need it. My [book](/book) and most of my [papers](papers) are available on this site as well as information on my [courses](/courses)."
+          imageUrl: "picture.jpeg"
+          imageWidth: 180
+          imageHeight: 180
+          buttons:
+            - name: Papers
+              url: papers/
+#            - name: Data
+#              url: data/
+            - name: Book
+              url: book/
+            - name: Courses
+              url: courses/
+            - name: News
+              url: news/
+            - name: Tags
+              url: tags/
+#            - name: Archive
+#              url: archive/
+
+
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:trgn@uni-bremen.de
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=EtZPXt4AAAAJ
+        - name: GitHub
+          url: https://github.com/tergen
+        - name: Bluesky
+          url: https://bsky.app/profile/trgn.bsky.social
+
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Timur Ergen"
+      icon: favicon.png
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
