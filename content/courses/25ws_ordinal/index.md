@@ -45,81 +45,83 @@ The seminar is part of the module 'Gesellschaftstheorie.' Detailed information o
 
 **Additional Material:**
 
-Watch the documentary 'Algorithmen - Die unberechenbare Gefahr' (ARTE 2022):
+Watch one of the following two documentaries:
++ In German: 'Algorithmen: Die unberechenbare Gefahr' (ARTE):
 https://www.youtube.com/watch?v=vGlwJlUqZnU
++ In English: 'Algorithms: The Secret Rules of Modern Living' (BBC):
+https://www.youtube.com/watch?v=k2AqGongii0
 
 ## Session 3: The Sociology of Citizenship
 **October 29, 2025**
 
-**Required Readings:**
-+ Marshall, T. H., 1965 [1949]: Citizenship and Social Class, pp. 71–134 in: T.H. Marshall, *Class, Citizenship, and Social Development. Essays by T.H. Marshall*, Anchor Books (especially: "The Early Impact of Citizenship", pp. 91–105).
+**Required Reading:**
++ Marshall, T. H., 1965 [1949]: Citizenship and Social Class, S. 71–134 in: T.H. Marshall, *Class, Citizenship, and Social Development. Essays by T.H. Marshall*, Anchor Books (especially: "The Early Impact of Citizenship", S. 91–105).
 
-## Session 4: Rankings, Ratings, and the Credit Card
+## Session 4: Rankings, Ratings and the Credit Card
 **November 5, 2025**
 
 **Required Reading:**
 + Rona-Tas, A., 2017. The Off-Label Use of Consumer Credit Ratings. *Historical Social Research* 42, 1, 52–76.
 
 **Additional Material:**
+
 Watch the documentary 'The Secret History of the Credit Card' (2004):
 https://www.youtube.com/watch?v=2mHsTKvAuZc
 
-## Session 5: Ordinalization
-**November 12, 2025**
-
-**Required Reading:**
-+ Fourcade, M., 2022. Ordinalisierung. pp. 7–44 in: M. Fourcade, *Zählen, benennen, ordnen. Eine Soziologie des Unterscheidens*. Hamburger Edition.
-
-## Session 6: Enter the Ordinal Society
+## Session 5: Enter the Ordinal Society
 **November 19, 2025**
 
 **Required Reading:**
-+ Fourcade, M. and K. Healy, 2024. *The Ordinal Society*. Harvard University Press, Introduction.
++ Fourcade, M. und K. Healy, 2024. *The Ordinal Society*. Harvard University Press, Introduction.
 
-## Session 7: The Box of Delights
+## Session 6: The Box of Delights
 **November 26, 2025**
 
 **Required Reading:**
-+ Fourcade, M. and K. Healy, 2024. *The Ordinal Society*. Harvard University Press, Chapter 1, 33–66.
++ Fourcade, M. und K. Healy, 2024. *The Ordinal Society*. Harvard University Press, Ch. 1, pp. 33–66.
 
-## Session 8: The Data Imperative
+## Session 7: The Data Imperative
 **December 3, 2025**
 
 **Required Reading:**
-+ Fourcade, M. and K. Healy, 2024. *The Ordinal Society*. Harvard University Press, Chapter 2, 67–99.
++ Fourcade, M. und K. Healy, 2024. *The Ordinal Society*. Harvard University Press, ch. 2, pp. 67–99.
 
-## Session 9: Classification Situations
+## Session 8: Classification Situations
 **December 10, 2025**
 
 **Required Reading:**
-+ Fourcade, M. and K. Healy, 2024. *The Ordinal Society*. Harvard University Press, Chapter 3, 100–131.
++ Fourcade, M. und K. Healy, 2024. *The Ordinal Society*. Harvard University Press, ch. 3, pp. 100–131.
 
-## Session 10: The Great Unbundling
+## Session 9: The Great Unbundling
 **December 17, 2025**
 
 **Required Reading:**
-+ Fourcade, M. and K. Healy, 2024. *The Ordinal Society*. Harvard University Press, Chapter 4, 132–161.
-*Winter Break: December 22, 2025 - January 2, 2026*
++ Fourcade, M. und K. Healy, 2024. *The Ordinal Society*. Harvard University Press, ch. 4, pp. 132–161.
 
-## Session 11: Layered Financialization
+*Winter Break: December 22, 2025–January 2, 2026*
+
+## Session 10: Layered Financialization
 **January 7, 2026**
 
 **Required Reading:**
-+ Fourcade, M. and K. Healy, 2024. *The Ordinal Society*. Harvard University Press, Chapter 5, 162–186.
++ Fourcade, M. und K. Healy, 2024. *The Ordinal Society*. Harvard University Press, ch. 5, pp. 162–186.
 
-## Session 12: The Road to Selfdom
+## Session 11: The Road to Selfdom
 **January 14, 2026**
 
 **Required Reading:**
-+ Fourcade, M. and K. Healy, 2024. *The Ordinal Society*. Harvard University Press, Chapter 6, 187–227.
++ Fourcade, M. und K. Healy, 2024. *The Ordinal Society*. Harvard University Press, ch. 6, pp. 187–227.
 
-## Session 13: Ordinal Citizenship
+## Session 12: Ordinal Citizenship
 **January 21, 2026**
 
 **Required Reading:**
-+ Fourcade, M. and K. Healy, 2024. *The Ordinal Society*. Harvard University Press, Chapter 7, 228–258.
++ Fourcade, M. und K. Healy, 2024. *The Ordinal Society*. Harvard University Press, ch. 7, pp. 228–258.
 
-## Session 14: Exam Preparation & Final Discussion
+## Session 13: The Rightness of Being Ranked
 **January 28, 2026**
+
+**Required Reading:**
++ Fourcade, M. und K. Healy, 2024. *The Ordinal Society*. Harvard University Press, ch. 8, pp. 259–286.
 
 ---
