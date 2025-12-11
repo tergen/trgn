@@ -3,4 +3,5 @@ public/
 resources/
 .hugo_build.lock
 .sh
-.DS_Storehugo serve
+.DS_Store
+.DS_Store
