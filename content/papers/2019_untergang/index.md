@@ -49,7 +49,7 @@ Ergen, Timur, 2019. Wirtschaftliche Untergangsszenarien und neoliberale Reformen
   number = {2},
   langid = {de-DE},
   pages = {144–168},
-  url = {https://doi.org/10.1080/09692290.2018.1563557}}
+  url = {https://doi.org/10.5771/0340-0425-2019-2-144}}
 
 ```
 
