@@ -25,8 +25,13 @@ editPost:
 
 ##### Abstract
 
-This essay grows out of a sense that the sociology of markets, once an intellectual center of gravity in the new economic sociology, no longer
-occupies the place it used to. In turn, economic sociologists have shifted their attention away from developing sociological takes on the workings of the market to elsewhere. We suspect that most readers share the intuition. The major books have been published, the canonical debates about rational calculation, embeddedness, and the social order of markets have been had, and much of the most exciting work in economic sociology today seems to take its energy from places other than fighting the hegemony of mainstream economics.
+This essay grows out of a sense that the sociology of markets, once an intellectual center of gravity in the new economic sociology, no longer occupies the place it used to. In turn, economic sociologists have shifted their attention away from developing sociological takes on the workings of the market to elsewhere. We suspect that most readers share the intuition. The major books have been published, the canonical debates about rational calculation, embeddedness, and the social order of markets have been had, and much of the most exciting work in economic sociology today seems to take its energy from places other than fighting the hegemony of mainstream economics.
+---
+
+##### Evolution of keyword frequency in core journals, 1995–2025
+
+![](figure_2_econsoc.png)
+
 ---
 
 ##### Citation
