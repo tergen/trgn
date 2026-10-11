@@ -69,7 +69,7 @@ The seminar is designed as a social offline space. We work with printed texts, a
 **November 9, 2026**
 
 **Required Reading:**
-+ Marx, Karl, 2009 [1844]: *Ökonomisch-philosophische Manuskripte*, „Die entfremdete Arbeit“. Frankfurt: Suhrkamp.
++ Marx, Karl, 2009 [1844]: Ökonomisch-philosophische Manuskripte. Frankfurt: Suhrkamp, S. 82–98 (sowie der dazugehörige Kommentar von Michael Quante, S. 247–263).
 
 ### Session 5: Polanyi – Arbeit als fiktive Ware
 **November 16, 2026**
