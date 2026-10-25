@@ -43,15 +43,17 @@ Conditionality was a central concern in the development literature of the 1990s.
 
 ##### Citation
 
-Bulfone, Fabio, Timur Ergen & Erez Maggor, 2025. Regulating via Conditionality: The Instruments of the New Industrial Policy. *Regulation & Governance* Online First(https://doi.org/10.1111/rego.70050).
+Bulfone, Fabio, Timur Ergen & Erez Maggor, 2026. Regulating via Conditionality: The Instruments of the New Industrial Policy. *Regulation & Governance* 20, 4, 1550–1568 (https://doi.org/10.1111/rego.70050).
 
 ```BibTeX
 @ARTICLE{bulfoneetal2025conditionality,
   author = {Bulfone, Fabio and Ergen, Timur and Maggor, Erez},
-  date = {2025},
+  date = {2026},
   title = {Regulating via Conditionality: The Instruments of the New Industrial Policy},
   journaltitle = {Regulation & Governance},
-  volume = {Online First},
+  volume = {20},
+  issue = {4},
+  pages = {1550–1568},
   url = {https://doi.org/10.1111/rego.70050}}
 
 ```
