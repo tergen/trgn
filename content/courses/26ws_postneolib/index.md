@@ -113,7 +113,7 @@ This class will commit itself to being an offline space. We work with printed te
 + Gabor, D. & B. Braun. 2023. "Green Macrofinancial Regimes." *Review of International Political Economy* 32(3): 542–568.
 
 **Further Readings:**
-+ Ban, C. & J. Hasselbalch. 2025. "Green economic planning for rapid decarbonization." *New Political Economy* 30(2): 287–299.
++ Ban, C. & J. Hasselbach. 2025. "Green economic planning for rapid decarbonization." *New Political Economy* 30(2): 287–299.
 + Copley, J. 2023. "Decarbonizing the downturn: Addressing climate change in an age of stagnation." *Competition & Change* 27(3–4): 429–448.
 + Ergen, T. & L. Schmitz. 2025. "Picking losers: Managed decline in the European Union." *Regulation & Governance* 19(2): 383–398.
 + Kim, S. Y. & E. Thurbon. 2015. "Developmental environmentalism: Explaining South Korea's ambitious pursuit of green growth." *Politics & Society* 43(2): 213–240.
